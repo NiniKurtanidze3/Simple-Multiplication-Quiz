@@ -1,4 +1,4 @@
-from random import *
+from random import randint
 
 print("Welcome to the Simple Multiplication Quiz! \nYou will be given 5 multiplication problems to solve")
 
